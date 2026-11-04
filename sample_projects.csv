@@ -1,0 +1,22 @@
+id,gate,installer,homeowner,product,country,postcode,kwp,quote,requested,quote_doc,assessment,financed,invoice,invoice_no,installed_kwp,battery_kwh,installed_battery_kwh,cert,photos,site_address,install_address,account,registered_account,contract_date,install_date,invoice_date
+F-201,financing,SolarWerk Brandenburg,Anna Becker,Solar + battery,DE,14467,9.8,21500,21500,yes,yes,,,,,,,,,,,,,,,
+F-202,financing,Wärme Plus GmbH,Lea Hoffmann,Heat pump,DE,10115,,18900,19800,yes,yes,,,,,,,,,,,,,,,
+F-203,financing,Sonnendach Nord,Felix Neumann,Solar,DE,20095,8.0,64000,64000,yes,yes,,,,,,,,,,,,,,,
+F-204,financing,Alpen Energie,Lukas Gruber,Solar,AT,6020,7.5,15900,15900,yes,yes,,,,,,,,,,,,,,,
+F-205,financing,EnergieHaus Süd,Sophie Klein,Wallbox,DE,8033,,1890,1890,yes,yes,,,,,,,,,,,,,,,
+F-206,financing,SolarWerk Brandenburg,Jonas Wolf,Solar,DE,14469,7.2,13900,13900,no,yes,,,,,,,,,,,,,,,
+F-207,financing,Klima Profi Wien,Eva Huber,Air conditioning,AT,1100,,6400,6400,yes,no,,,,,,,,,,,,,,,
+F-208,financing,Sonnendach Nord,Jonas Wolf,Solar,DE,20251,6.8,14600,14600,yes,yes,,,,,,,,,,,,,,,
+P-301,payout,Sonnendach Nord,Mia Richter,Solar,DE,,10.5,,,,,22000,22000,SN-1001,10.5,,,yes,14,"Lindenweg 4, 22605","Lindenweg 4, 22605",4821,4821,2026-09-20,2026-10-28,2026-10-29
+P-302,payout,Wärme Plus GmbH,Paul Schäfer,Heat pump,DE,,,,,,,18900,18900,WP-2001,,,,no,12,"Am Hang 9, 10245","Am Hang 9, 10245",7730,7730,2026-09-12,2026-10-30,2026-10-30
+P-303,payout,EnergieHaus Süd,Ben Fischer,Solar + battery,DE,,11,,,,,24800,24800,EH-3001,11,10,10,yes,6,"Isarring 21, 80805","Isarring 21, 80805",1192,1192,2026-09-30,2026-10-31,2026-11-01
+P-304,payout,SolarWerk Brandenburg,Lena Schulz,Solar,DE,,9,,,,,19300,20900,SW-4410,9,,,yes,12,"Birkenallee 2, 14469","Birkenallee 2, 14469",5508,5508,2026-09-18,2026-10-22,2026-10-23
+P-305,payout,Alpen Energie,Maria Steiner,Solar + battery,AT,,9,,,,,23500,16900,AE-0912,9,8,0,yes,11,"Bergstraße 7, 6020","Bergstraße 7, 6020",3017,3017,2026-09-25,2026-10-29,2026-10-30
+P-306,payout,Sonnendach Nord,Tim Wagner,Solar,DE,,8,,,,,17200,17200,SN-1007,6.4,,,yes,13,"Moorweg 15, 22549","Moorweg 15, 22549",4821,4821,2026-09-28,2026-11-02,2026-11-02
+P-307,payout,Wärme Plus GmbH,Emma Zimmermann,Heat pump,DE,,,,,,,19400,19400,SN-1001,,,,yes,10,"Ostweg 3, 10405","Ostweg 3, 10405",7730,7730,2026-10-01,2026-11-01,2026-11-01
+P-308,payout,EnergieHaus Süd,Hannah Lange,Solar,DE,,7.8,,,,,16200,15600,EH-3009,7.8,,,yes,12,"Ahornweg 8, 80333","Ahornweg 8, 80333",1192,1192,2026-10-02,2026-11-03,2026-11-03
+P-309,payout,Klima Profi Wien,Karl Bauer,Air conditioning,AT,,,,,,,6400,6400,KP-0077,,,,yes,10,"Gasse 12, 1100","Gasse 12, 1100",6644,6644,2026-10-20,2026-11-12,2026-11-12
+P-310,payout,Alpen Energie,Julia Moser,Heat pump,AT,,,,,,,17900,17900,AE-0930,,,,yes,15,"Feldweg 1, 6060","Feldweg 1, 6060",3017,3017,2026-09-29,2026-11-02,2026-11-02
+P-311,payout,SolarWerk Brandenburg,Nora Krüger,Solar,DE,,8.5,,,,,18100,18100,SW-4422,8.5,,,yes,12,"Seestraße 5, 14467","Parkweg 19, 14482",5508,5508,2026-09-26,2026-10-30,2026-10-31
+P-312,payout,Wärme Plus GmbH,David Roth,Heat pump,DE,,,,,,,18300,18300,WP-2014,,,,yes,11,"Ringstraße 30, 10317","Ringstraße 30, 10317",0955,7730,2026-10-03,2026-11-02,2026-11-02
+P-313,payout,EnergieHaus Süd,Clara Vogel,Wallbox,DE,,,,,,,1890,1890,EH-3015,,,,yes,10,"Talweg 6, 81369","Talweg 6, 81369",1192,1192,2026-10-10,2026-10-27,2026-10-20
